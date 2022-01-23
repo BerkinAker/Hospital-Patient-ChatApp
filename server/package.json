@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "http": "0.0.1-security",
+    "mysql": "^2.16.0",
+    "pm2": "^5.1.2",
+    "socket.io": "^2.1.1",
+    "socket.io-stream": "^0.9.1",
+    "socketio-file-upload": "^0.6.4"
+  }
+}
