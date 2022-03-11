@@ -1,4 +1,4 @@
-# Chat App
+# Hospital Doctor-Patient Chat App
 
 * A chat app made by Flutter, NodeJS and Mysql
 
