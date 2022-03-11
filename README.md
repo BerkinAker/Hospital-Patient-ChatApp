@@ -1,6 +1,5 @@
 # Chat App
 
-## Description
 * A chat app made by Flutter, NodeJS and Mysql
 
 ## Note: Before launching your Flutter application, run adb reverse tcp:4320 tcp:4320 in your terminal to resolve the issue of connecting to localhost on Android Device.
